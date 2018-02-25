@@ -1,3 +1,61 @@
-baseURL = "http://example.org/"
+baseurl = "https://jigme.nyc/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Jigme Tsöndru"
+enableRobotsTXT = true
+
+[params]
+    amp = true # enables amp features
+
+    # define which amp-elements you are using globally, these elements will be included in every page
+    ampElements = ["amp-analytics","amp-dynamic-css-classes","amp-sidebar"]
+
+    themeColor = "#0277bd" # define a theme color (this will colorize the android address-bar)
+
+    paginate = 10 # Number of pages per list page
+
+    googleAnalytics = "UA-100337052-3" # required if you want to use google analytics
+
+    alternatePageName = "morgannels" # alternative name for website structured data
+    organizationLogo = "https://jigme.nyc/images/Logo.png" # set organisation logo for structured data
+    organizationName = "Jigme Tsöndru" # set organisation name
+    organizationAddress = "New York, NY" # set organisation address
+
+    socialProfiles = ["https://plus.google.com/+MorganSandquist/","https://morgannels.com/","http://www.morgannels.photos/"]  # for sameAs in organisation's structured data
+
+    publisherName = "Jigme Tsöndru" # publisher used in article schema
+    publisherLogo = "https://jigme.nyc/images/Logo.png" # https://developers.google.com/search/docs/data-types/articles#logo-guidelines
+    publisherLogoWidth = 400 # logo width
+    publisherLogoHeight = 60 # logo height
+
+    stylesheetRegular = ["/base-styling.css"] # these styles are used when amp is disabled for a specific page
+    javascriptRegular = ["/script.js"] # these scripts are used when amp is disabled for a specific page
+
+    fullName = "Morgan Nels Sandquist"
+    email = "morgannels@gmail.com"
+    phone = "646-355-8691"
+
+[[menu.header]]
+  name = "Résumé"
+  weight = 1
+  url = "/resume/"
+[[menu.header]]
+  name = "About"
+  weight = 2
+  url = "/about/"
+
+[[menu.self]]
+  name = "My Personal Weblog"
+  weight = 1
+  url = "https://morgannels.com/"
+[[menu.self]]
+  name = "My Buddhist Practice"
+  weight = 2
+  url = "https://rimeshedra.nyc/"
+[[menu.self]]
+  name = "My Photography Portfolio"
+  weight = 3
+  url = "http://www.morgannels.photos/"
+[[menu.self]]
+  name = "My Social Media"
+  weight = 4
+  url = "https://plus.google.com/+MorganSandquist/"

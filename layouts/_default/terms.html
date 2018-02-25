@@ -1,0 +1,14 @@
+{{ partial "structure/head" . }}
+<main>
+  <div class="container">
+    {{ partial "navigation/breadcrumbs" . }}
+    {{ range $key,$value := .Data.Terms.Alphabetical }}
+      <a class="article-a" href="{{ $value.Name | urlize }}">
+        <div class="article-li">
+          <nav class="tags">#{{ $value.Name }} ( {{ $value.Count }} )</nav>
+        </div>
+      </a>
+    {{ end }}
+  </div>
+</main>
+{{ partial "structure/foot" . }}

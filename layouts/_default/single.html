@@ -1,0 +1,9 @@
+{{ partial "structure/head" . }}
+<main>
+  <div class="container">
+    {{ partial "navigation/breadcrumbs" . }}
+    {{ .Content }}
+    {{ partial "share" }}
+  </div>
+</main>
+{{ partial "structure/foot" . }}

@@ -1,0 +1,14 @@
+<a class="article-a" href="{{ .URL }}">
+  <div class="article-li">
+    <h1>{{ .Title }}</h1>
+    <h3>{{ .Date.Format "Mon, Jan 2, 2006" }}</h3>
+    <p class="tags">
+      {{if .Params.tags }}
+        {{ range $index , $tag := .Params.tags }}
+          #{{ $tag }}
+        {{ end }}
+      {{end}}
+    </p>
+    <p>{{ .Description }}</p>
+  </div>
+</a>

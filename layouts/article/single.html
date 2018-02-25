@@ -1,0 +1,18 @@
+{{ partial "structure/head" . }}
+<article>
+  <div class="container">
+    {{ partial "navigation/breadcrumbs" . }}
+    <h1>{{ .Title }}</h1>
+    <h3>{{ .Date.Format "Mon, Jan 2, 2006" }}</h3>
+    <nav class="tags">
+      {{ if .Params.tags }}
+        {{ range $index , $tag := .Params.tags }}
+          <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">#{{ $tag }}</a>
+        {{ end }}
+      {{end}}
+    </nav>
+    {{ .Content }}
+    {{ partial "share" }}
+  </div>
+</article>
+{{ partial "structure/foot" . }}

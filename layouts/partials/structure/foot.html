@@ -1,0 +1,24 @@
+<footer>
+  <div class="container">
+    <nav>
+      <h4>My Other Sites:</h4>
+      <ul>
+        {{ range .Site.Menus.self }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+    <div class="contact">
+      <h4>Contact:</h4>
+      <ul>
+        <li>{{ with .Site.Params.email }}<a href="mailto:{{ . }}">{{ . }}</a>{{ end }}</li>
+        <li>{{ with .Site.Params.phone }}{{ . }}{{ end }}</li>
+        <li>{{ with .Site.Params.organizationAddress }}{{ . }}{{ end }}</li>
+      </ul>
+    </div>
+    <p class="attribution">© {{ .Date.Format "2006" }} <a href="https://jigme.nyc/">Morgan Sandquist</a> | powered by <a href="http://gohugo.io" target="_blank">hugo</a> | theme based on <a href="https://gohugo-amp.gohugohq.com" target="_blank">gohugo-amp</a> and <a href="https://github.com/pdevty/amp" target="_blank">amp</a></p>
+  </div>
+</footer>
+{{ partial "amp/google-analytics" . }}
+</body>
+</html>

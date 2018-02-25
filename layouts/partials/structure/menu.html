@@ -1,0 +1,6 @@
+      {{ range .Site.Menus.header }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+      {{ if .Site.RSSLink }}
+        <li><a href="{{ .Site.RSSLink }}">Subscribe</a></li>
+      {{ end }}

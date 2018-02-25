@@ -1,0 +1,12 @@
+{{ $paginator := .Paginate (where .Data.Pages "Type" "article") }}
+{{ partial "structure/head" . }}
+<main>
+  <div class="container">
+    {{ partial "navigation/breadcrumbs" . }}
+    {{ range $paginator.Pages }}
+      {{ .Render "li" }}
+    {{ end }}
+    {{ partial "navigation/pagination" . }}
+  </div>
+</main>
+{{ partial "structure/foot" . }}
