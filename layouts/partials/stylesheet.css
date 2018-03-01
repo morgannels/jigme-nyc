@@ -6,13 +6,13 @@ html, body {
 }
 
 body {
-  font-family: 'Noto Serif', serif;
-  font-size: .9em;
+  font-family: 'Mukta Malar', sans-serif;
+  font-size: 1.1em;
   background-color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6, nav, footer {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Bree Serif', serif;
 }
 
 h1 {
@@ -75,7 +75,7 @@ hr {
 }
 
 blockquote {
-  font-size: .85em;
+  font-size: 1em;
   font-weight: bold;
   font-style: italic;
   color: #424242;
@@ -178,7 +178,7 @@ header nav li {
 }
 
 .tags {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Bree Serif', serif;
   color: #0277bd;
 }
 
@@ -244,7 +244,7 @@ amp-social-share {
 /* Main text styling */
 
 main, article {
-  line-height: 1.6em;
+  line-height: 1.8em;
   background-color: #f5f5f5;
   padding: 4em .5em 2em;
 }
@@ -284,7 +284,7 @@ table {
 }
 
 th {
-  font-family: Roboto, sans-serif;
+  font-family: Bree Serif, serif;
   font-style: bold;
   font-size: 1em;
   text-decoration: underline;
@@ -293,7 +293,7 @@ th {
 }
 
 td {
-  font-family: 'Noto Serif', serif;
+  font-family: 'Mukta Malar', sans-serif;
   font-size: .9em;
   padding: .1em 1em;
 }
