@@ -6,13 +6,13 @@ html, body {
 }
 
 body {
-  font-family: 'Mukta Malar', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.1em;
   background-color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6, nav, footer {
-  font-family: 'Bree Serif', serif;
+  font-family: 'Roboto Slab', serif;
 }
 
 h1 {
@@ -120,6 +120,10 @@ header .container>nav {
   padding: .2em 0em;
 }
 
+header h1 {
+  font-family: 'Caveat Brush', cursive;
+}
+
 header nav ul li.hamburger {
   display: none;
   padding: 0em;
@@ -178,7 +182,7 @@ header nav li {
 }
 
 .tags {
-  font-family: 'Bree Serif', serif;
+  font-family: 'Roboto Slab', serif;
   color: #0277bd;
 }
 
@@ -284,7 +288,7 @@ table {
 }
 
 th {
-  font-family: Bree Serif, serif;
+  font-family: 'Roboto Slab', serif;
   font-style: bold;
   font-size: 1em;
   text-decoration: underline;
@@ -293,7 +297,7 @@ th {
 }
 
 td {
-  font-family: 'Mukta Malar', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: .9em;
   padding: .1em 1em;
 }
