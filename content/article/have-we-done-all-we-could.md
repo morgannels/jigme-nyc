@@ -22,17 +22,19 @@ tags = []
 
 +++
 
-> **Note:** This essay was proposed by Cathy O’Neil, a facilitator of the Occupy Wall Street Alternative Banking Working Group, and written by Morgan Sandquist, a participant in the Working Group. It ran in four parts on mathbabe (thanks Cathy) and Naked Capitalism (thanks Yves) from last Friday through today.
+> **Note:** This essay was proposed by [Cathy O’Neil](http://mathbabe.org/), a facilitator of the [Occupy Wall Street Alternative Banking Working Group](http://altbanking.net/), and written by Morgan Sandquist, a participant in the Working Group. It ran in four parts on *[mathbabe](http://mathbabe.org/2012/04/27/in-denial-ows/)* (thanks Cathy) and *[Naked Capitalism](http://www.nakedcapitalism.com/2012/04/morgan-sandquist-finance-in-denial.html)* (thanks Yves) from April 27 through April 30, 2012.
+
+<amp-img alt="I. In Denial" src="/images/20111217-9734.jpg" width="2048" height="1638" layout="responsive"></amp-img>
 
 ## I. In Denial
 
-The largest banks in America–-Citibank, Bank of America, Wells Fargo, and others–-[are probably insolvent](http://www.economonitor.com/lrwray/2011/10/05/are-the-big-banks-insolvent/). I learned of this from my companions in Occupy Wall Street’s Alternative Banking Working Group. It seems that, based on a host of [legal and accounting irregularities](http://www.nakedcapitalism.com/2012/02/more-on-the-role-of-second-liens-and-the-mortgage-settlement-as-stealth-bank-bailout.html), the banks have been able to conceal real and potential losses far larger than their capital reserves. But this has been difficult to confirm.
+The largest banks in America--Citibank, Bank of America, Wells Fargo, and others--[are probably insolvent](http://www.economonitor.com/lrwray/2011/10/05/are-the-big-banks-insolvent/). I learned of this from my companions in Occupy Wall Street’s Alternative Banking Working Group. It seems that, based on a host of [legal and accounting irregularities](http://www.nakedcapitalism.com/2012/02/more-on-the-role-of-second-liens-and-the-mortgage-settlement-as-stealth-bank-bailout.html), the banks have been able to conceal real and potential losses far larger than their capital reserves. But this has been difficult to confirm.
 
 Isn’t that strange? Wouldn’t the possible insolvency of the core of our banking industry be a matter of nearly universal importance? Shouldn’t we be trying to figure out if this is in fact so, how it came to be, what we’re going to do about it, and how we can prevent its happening again?
 
 Anyone investigating the true health of the banking industry, apparently including regulators, is faced with opacity, complexity, and even outright hostility that stymies all but the most savvy and persistent. Fortunately, people within OWS, including the [Occupy the SEC Working Group](http://www.occupythesec.org/), [are that savvy and persistent](http://www.scribd.com/doc/81484886/Occupy-the-SEC-Comment-Letter-on-the-Volcker-Rule). But the reaction of the industry and its partisans to such efforts has included the not-so-subtle suggestion that inquiring into the well-being of the banking industry will somehow cause problems to arise that wouldn’t otherwise exist if we would all just mind our own business.
 
-This seems odd in an ostensibly objective and quantitative context like banking. Shouldn’t the truth be clearly visible in the accounting? Shouldn’t we all–borrowers, investors, depositors, and regulators–want to know exactly what’s going on?
+This seems odd in an ostensibly objective and quantitative context like banking. Shouldn’t the truth be clearly visible in the accounting? Shouldn’t we all-borrowers, investors, depositors, and regulators-want to know exactly what’s going on?
 
 As unexpected as such a visceral and irrational reaction to genuine, well-founded concern is from the supposedly rational realm of finance, that telltale blend of evasion, grandiosity, and superstition will be familiar to anyone who has ever confronted an addict about his or her addiction.
 
@@ -52,13 +54,15 @@ We’ll confront it with [seemingly undeniable evidence](http://www.nakedcapital
 
 And what choice do we have? Maybe it’s not that bad. After all, if the banks really were insolvent, there would’ve been something on the evening news.
 
+<amp-img alt="II. The Addiction" src="/images/ii-theaddiction.jpg" width="1024" height="819" layout="responsive"></amp-img>
+
 ## II. The Addiction
 
 Is it fair to say that because the quality of the denial surrounding the banking industry’s problems is so similar to that of the denial surrounding addiction, that addiction is therefore the root of those problems and our ongoing failure to adequately address them? Perhaps not, but others have come to describe money, debt, and banking as something very much like addiction for entirely different, and far better argued, reasons.
 
 In *[Debt: The First Five Thousand Years](http://mhpbooks.com/books/debt/)*, David Graeber looks deeply into the anthropological record and finds that money and debt, and, by extension, banking, are all essentially the same thing, and they’re not what most of us understand them to be. Money is certainly not simply the objective store of value and medium of exchange that economists would have us believe it is. Because [money is created as debt](http://en.wikipedia.org/wiki/Criticism_of_fractional_reserve_banking), its use to finance productive activity means that that activity, whatever it is, must then generate interest to be returned to money’s creators in addition to the money lent.
 
-This has given rise to an industry, even a class of people, that derives its livelihood not from any productive activity of its own, but merely from having money. In *[Sacred Economics](http://sacred-economics.com/)*, Charles Eisenstein takes this a step further to show that this overhead cost inherent in all monetarily denominated activities means that the value represented by money must always grow. There is no logical end to what must be monetized–natural resources, ideas, time. Nothing can remain unowned and clear of liens, and that will eventually consume any finite realm:
+This has given rise to an industry, even a class of people, that derives its livelihood not from any productive activity of its own, but merely from having money. In *[Sacred Economics](http://sacred-economics.com/)*, Charles Eisenstein takes this a step further to show that this overhead cost inherent in all monetarily denominated activities means that the value represented by money must always grow. There is no logical end to what must be monetized-natural resources, ideas, time. Nothing can remain unowned and clear of liens, and that will eventually consume any finite realm:
 
 > The dynamics of usury-money are addiction dynamics, requiring an ever-greater dose (of the commons) to maintain normality, converting more and more of the basis of well-being into money for a fix. If you have an addict friend, it won’t do any good to give her “help” of the usual kind, such as money, a car to replace the one she crashed, or a job to replace the one she lost. All of those resources will just go down the black hole of addiction. So too it is with our politicians’ efforts to prolong the age of growth.
 
@@ -80,13 +84,15 @@ Similarly, it’s not that banks don’t need to be better capitalized, but prov
 
 To effectively address addiction is to prevent further addictive use of the substance. Any effort directed at symptoms will, to the extent they’re effective, simply enable continued substance abuse. It’s only by understanding the nature and extent of denial, navigating its maze, and intervening directly in the use of the substance that one can hope to effectively address addiction, and even then, the odds aren’t in the addict’s favor. And only with a thorough understanding of this dynamic and all of its implications can we hope to intervene effectively in the banking crisis that as of now continues unabated.
 
+<amp-img alt="III. An Intervention" src="/images/20111117-0454.jpg" width="1050" height="788" layout="responsive"></amp-img>
+
 ## III. An Intervention
 
 What are we to do with our banking industry, sitting there at the kitchen table in its underwear, drumming on the table with one hand and scratching its increasingly coarse chin with the other in an impossibly syncopated rhythm, letting fly a dizzying stream of assurances, justifications, and accusations, and generally spoiling for a fight that can only be avoided by complete and enthusiastic agreement with a narrative that can be very difficult to follow, let alone make sense of?
 
 Because this is our kitchen too, we have our legal and moral rights. We would be well within those rights to respond to its nonsense with far more coherent and sweeping condemnations of our own. Throwing the bum out in its underwear without so much as a cup of coffee, taking the children, and keeping our share of whatever might be left could certainly be justified.
 
-Though the sense of release offered by those responses is tempting, they’re not likely to be of any practical use. We can’t win an argument with an irrational person, and our share of an insolvent industry is likely to be very little–certainly not enough to feed the children. We have to recognize the hard truth of our implication in the banking industry and its addiction.
+Though the sense of release offered by those responses is tempting, they’re not likely to be of any practical use. We can’t win an argument with an irrational person, and our share of an insolvent industry is likely to be very little-certainly not enough to feed the children. We have to recognize the hard truth of our implication in the banking industry and its addiction.
 
 This doesn’t mean that we’re responsible for the addiction and its consequences, or that we can make the choice not to continue that addiction on our own, but it does mean that the problem won’t be constructively resolved without our efforts. To the extent that denial is about obscuring the connection between decisions and results, the most effective means of undermining denial is to clarify that connection, and the process of doing that is intervention.
 
@@ -108,7 +114,7 @@ If we force it to rehabilitate, what will happen during that process? Will our e
 
 It’s true that the banking industry has seized upon the process that’s the basis of our economic survival, and that attempts to address the problems of the banking industry cannot be undertaken lightly. But it’s also true that the banking industry has perverted that process, and that attempts to address that won’t prevent our return to some fantasy of efficiency and plenty, though they might prevent the otherwise inevitable, tragic end of the current trajectory left unchecked.
 
-Whatever happens while the banking industry is rehabilitated is unlikely to be worse than what will happen as it continues to indulge in its addiction unaddressed, and it’s unlikely to function any worse upon the completion of its rehabilitation than it is now. As Charles Eisenstein puts it, “any efforts we make today to ‘raise bottom’ for our collectively addicted civilization–any efforts we make to protect or reclaim social, natural, or spiritual capital–will both hasten and ameliorate the crisis.”
+Whatever happens while the banking industry is rehabilitated is unlikely to be worse than what will happen as it continues to indulge in its addiction unaddressed, and it’s unlikely to function any worse upon the completion of its rehabilitation than it is now. As Charles Eisenstein puts it, “any efforts we make today to ‘raise bottom’ for our collectively addicted civilization-any efforts we make to protect or reclaim social, natural, or spiritual capital-will both hasten and ameliorate the crisis.”
 
 Once an addict has reached the point in his or her descent where an intervention is necessary, there’s no realistic possibility of a return to some pre-addiction Golden Age. The apparent paradox that an addict’s life must be destroyed to save it is, stated in those terms, false. The addict’s life only appears to be as yet undestroyed through the lens of denial, and a future life without substance abuse or consequences is an illusion.
 
@@ -126,6 +132,8 @@ Where denial is deceptive, impulsive, and selfish, intervention is clear, patien
 
 And to induce that surrender, it’s crucial that the addict be offered an alternative to his or her addiction, whether it’s formal rehab, a twelve-step program, methadone, or a recovery dog. It’s important to recognize that even before the addict became physically or emotionally dependent on the substance, that substance met an otherwise unmet need, and leaving it unmet will lead only to relapse.
 
+<amp-img alt="III. An Intervention" src="/images/20111023-9190.jpg" width="1050" height="700" layout="responsive"></amp-img>
+
 ## IV. Conclusion
 
 Still sitting in our breakfast nook, with the banking industry squinting grumpily back at us through the glare of the morning sun on the perfectly polished granite table top, we can sit back, rest our hands on the table, and rather than shouting what it expects to hear, playing our part in the script of codependency, we can speak, without pleading or rancor, the truths that are beyond the script.
@@ -138,7 +146,7 @@ The banking industry must take responsibility for the laws it has broken and mak
 
 I would have liked to title this section of this essay “Recovery,” but I’m not in the position to do that. I can’t speak to outcomes, only to process. I’m neither imaginative nor prescient enough to suggest what the successful results of our efforts might look like, but I have some idea of how those efforts should be undertaken.
 
-I could use the [Twelve Steps of Alcoholics Anonymous](http://en.wikipedia.org/wiki/Twelve-Step_Program#Twelve_Steps) (“We admitted we were powerless over debt–that our industry had become unmanageable,” and so on) to describe what might follow from the banking industry taking that first step, but that would be a too literal extension of the metaphor.
+I could use the [Twelve Steps of Alcoholics Anonymous](http://en.wikipedia.org/wiki/Twelve-Step_Program#Twelve_Steps) (“We admitted we were powerless over debt-that our industry had become unmanageable,” and so on) to describe what might follow from the banking industry taking that first step, but that would be a too literal extension of the metaphor.
 
 The truth is that history offers no examples of the sort of transformation that’s now needed. Though addiction and recovery may offer greater insight into our predicament than yet another political or economic analysis, there’s no reason to believe that the situation will stick to that metaphor as it evolves, even as we proceed with what is essentially an intervention.
 
