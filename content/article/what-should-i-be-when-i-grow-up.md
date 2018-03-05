@@ -21,7 +21,7 @@ title = "What Should I Be When I Grow Up?"
 
 +++
 
-**Note:** This article was originally published in the November/December 2007 issue of the now-defunct *[Sentient City Magazine] (https://web.archive.org/web/20080204071634/http://www.theidproject.com:80/scm/index.php?option=com_content&task=view&id=72&Itemid=65)*.
+> **Note:** This article was originally published in the November/December 2007 issue of the now-defunct *[Sentient City Magazine] (https://web.archive.org/web/20080204071634/http://www.theidproject.com:80/scm/index.php?option=com_content&task=view&id=72&Itemid=65)*.
 
 ## I
 
