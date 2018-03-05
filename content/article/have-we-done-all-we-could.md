@@ -1,6 +1,6 @@
 +++
 date = "2012-04-30"
-draft = true
+draft = false
 publishdate = "2012-04-30"
 title = "Have We Done All We Could?"
 description = "a.k.a. Finance in Denial: Four-part essay proposing a constructive means of viewing and addressing the ongoing financial system crisis."

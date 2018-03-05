@@ -1,6 +1,6 @@
 +++
 date = "2007-03-03"
-draft = true
+draft = false
 publishdate = "2007-03-03"
 title = "It's Alright, Ma (I'm Only Dreaming)"
 description = "An essay exploring the relationship between dreams and art, particularly literature."
