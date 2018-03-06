@@ -44,9 +44,9 @@ enableRobotsTXT = true
   url = "/about/"
 
 [[menu.self]]
-  name = "My Personal Weblog"
+  name = "My Social Media"
   weight = 1
-  url = "https://morgannels.com/"
+  url = "https://plus.google.com/+MorganSandquist/"
 [[menu.self]]
   name = "My Buddhist Practice"
   weight = 2
@@ -55,7 +55,3 @@ enableRobotsTXT = true
   name = "My Photography Portfolio"
   weight = 3
   url = "http://www.morgannels.photos/"
-[[menu.self]]
-  name = "My Social Media"
-  weight = 4
-  url = "https://plus.google.com/+MorganSandquist/"
