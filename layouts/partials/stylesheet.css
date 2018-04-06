@@ -384,54 +384,32 @@ footer .container>.contact {
 
 /* Resume-specific styling */
 
-.resume-header {
-  padding: 0em 1.5em;
-}
-
-.resume-heading {
-  padding: .5em 1em;
-  margin-top: .5em;
-  border: none;
-  background-color: #e9e9e9;
+.resume h1 {
+  margin: .1em 0em .2em;
+  padding: 0em;
   color: #0277bd;
-}
-
-.project, .education, .publication {
-  padding: .5em 1em .5em 2em;
-}
-
-.resume-header h4, .project h4, .project p, .education h4, .education p, .publication h4, .publication p {
-  margin: 0em;
-}
-
-.employer, section > .job-title {
-  padding: .5em 1em;
-  border: none;
-  background-color: #e9e9e9;
-}
-
-.job {
-  padding: 0em 1em;
-}
-
-.employment {
-  padding-left: 1em;
-  margin-top: .75em;
-}
-
-.job-title {
-  font-style: italic;
+  font-size: 1.2em;
   font-weight: normal;
+  font-style: normal;
 }
 
-.employment .job .job-title {
-  padding: 0em 1em;
+.resume h2 {
+  margin: .1em 0em .2em;
+  padding: 0em;
+  font-size: 1.1em;
+  font-weight: normal;
+  font-style: normal;
 }
 
-section > .job-title {
-  margin: .75em 0em 0em 1em;
+.resume h3 {
+  margin: .1em 0em .2em;
+  padding: 0em;
+  font-size: 1.0em;
+  font-weight: normal;
+  font-style: normal;
 }
 
-.article-title {
-  font-style: italic;
+.resume p, li {
+  line-height: 1.5em;
+  font-size: .8em;
 }
