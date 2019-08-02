@@ -20,7 +20,7 @@ enableRobotsTXT = true
     organizationName = "Jigme Tsöndru" # set organisation name
     organizationAddress = "New York, NY" # set organisation address
 
-    socialProfiles = ["https://plus.google.com/+MorganSandquist/","https://morgannels.com/","http://www.morgannels.photos/"]  # for sameAs in organisation's structured data
+    socialProfiles = ["https://morgannels.com/","http://www.morgannels.photos/"]  # for sameAs in organisation's structured data
 
     publisherName = "Jigme Tsöndru" # publisher used in article schema
     publisherLogo = "https://jigme.nyc/images/Logo.png" # https://developers.google.com/search/docs/data-types/articles#logo-guidelines
@@ -44,14 +44,10 @@ enableRobotsTXT = true
   url = "/about/"
 
 [[menu.self]]
-  name = "My Social Media"
-  weight = 1
-  url = "https://plus.google.com/+MorganSandquist/"
-[[menu.self]]
   name = "My Buddhist Practice"
-  weight = 2
+  weight = 1
   url = "https://rimeshedra.nyc/"
 [[menu.self]]
   name = "My Photography Portfolio"
-  weight = 3
+  weight = 2
   url = "http://morgannels.photos/"
