@@ -1,7 +1,7 @@
 +++
 date = "2020-03-12"
-draft = true
-publishdate = ""
+draft = false
+publishdate = "2020-03-19"
 title = "Back into the Code"
 description = "I've been managing development for a very long time. I'm taking the opportunity to do some development myself"
 tags = []
