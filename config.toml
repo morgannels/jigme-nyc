@@ -50,4 +50,4 @@ enableRobotsTXT = true
 [[menu.self]]
   name = "My Photography Portfolio"
   weight = 2
-  url = "http://morgannels.photos/"
+  url = "http://clearandknowing.studio/"
